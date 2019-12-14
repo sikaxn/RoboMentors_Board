@@ -756,7 +756,7 @@ void study_task(const void*argu){
 //}
 
 
-////实验：使用遥控器控制机器人的前进、后退、左转、右转、左平移、右平移
+////实验：使用遥控器控制底盘的前进、后退、左转、右转、左平移、右平移
 //#include "rm_hal_lib.h"
 //#include "cmsis_os.h"
 //#include "uart_device.h"
