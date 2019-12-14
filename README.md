@@ -5,6 +5,28 @@ RoboMentors_Board是一款面向机器人DIY的开源主控开发板。
 兼容Dji RoboMaster的M3508、 M2006、GM6020直流无刷减速电机以及遥控器。   
 支持Jetson Nano、树莓派、妙算等产品的串口通讯。
 
+## 硬件模块购买地址
+
+RoboMentors开发板套件：[即将发售]
+
+RoboMaster开发板套件：[点击购买](https://www.robomaster.com/zh-CN/products/components/general/development-board)
+
+GM6020云台电机：[点击购买，需要2个](https://www.robomaster.com/zh-CN/products/components/general/gm6020/info)
+
+M3508减速直流电机：[点击购买，需要4个](https://www.robomaster.com/zh-CN/products/components/general/M3508)
+
+C620无刷电机调速器：[点击购买，需要4个](https://www.robomaster.com/zh-CN/products/components/general/M3508)
+
+RoboMaster遥控器：[点击购买](https://www.robomaster.com/zh-CN/products/components/detail/122)
+
+RoboMaster中心板：[点击购买](https://www.robomaster.com/zh-CN/products/components/detail/143)
+
+RoboMaster TB47D电池：[自行淘宝]
+
+RoboMaster TB47D电池架：[自行淘宝]
+
+> 如上述硬件模块无法购买，请自行淘宝。
+
 ## 工程文件说明
 
 代码基于Dji RoboMaster A型开发板示例例程整理，友好的帮助机器人爱好者轻松入门。
