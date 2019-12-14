@@ -206,7 +206,7 @@ I (..\User\sys.h)(0x5DF4E0A3)
 I (..\User\app\study_task.h)(0x5DF4E06F)
 I (..\User\driver\uart_device.h)(0x5DF4E081)
 I (..\User\driver\can_device.h)(0x5DF4E053)
-F (..\User\app\study_task.c)(0x5DF4EAC5)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\Inc -I ..\Inc\hal_inc -I ..\Inc\m3_inc -I ..\Inc\os_inc -I ..\Inc\hal_inc\Legacy -I ..\User -I ..\User\algorithm -I ..\User\app -I ..\User\driver --C99-I.\RTE\_RoboMentors_Board-IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\robomentors_board\study_task.o --omf_browse .\robomentors_board\study_task.crf --depend .\robomentors_board\study_task.d)
+F (..\User\app\study_task.c)(0x5DF50536)(-c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I ..\Inc -I ..\Inc\hal_inc -I ..\Inc\m3_inc -I ..\Inc\os_inc -I ..\Inc\hal_inc\Legacy -I ..\User -I ..\User\algorithm -I ..\User\app -I ..\User\driver --C99-I.\RTE\_RoboMentors_Board-IC:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32F427xx -DUSE_HAL_DRIVER -DSTM32F427xx --C99-o .\robomentors_board\study_task.o --omf_browse .\robomentors_board\study_task.crf --depend .\robomentors_board\study_task.d)
 I (..\User\app\study_task.h)(0x5DF4E06F)
 I (..\User\rm_hal_lib.h)(0x5DF4DF98)
 I (..\Inc\hal_inc\stm32f4xx_hal.h)(0x5DF4E024)
@@ -311,4 +311,4 @@ I (..\Inc\os_inc\queue.h)(0x5B48E798)
 I (..\Inc\os_inc\semphr.h)(0x5B48E798)
 I (..\Inc\os_inc\event_groups.h)(0x5B48E798)
 F (..\Inc\RoboMentors_Board1_3.lib)(0x5B48E798)()
-F (..\README.md)(0x5DF4EF96)()
+F (..\README.md)(0x5DF50520)()
